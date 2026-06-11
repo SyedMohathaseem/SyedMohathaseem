@@ -7,7 +7,7 @@
 
   <!-- Interactive Typing Sub-headline -->
   <a href="https://github.com/SyedMohathaseem">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=500&lines=AI+Full+Stack+Developer;Building+Intelligent+SaaS;Vibe+Coding+%26+Automation;Crafting+Performant+Next.js+Apps" alt="Typing Sub-headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=500&lines=AI+Full+Stack+Developer;Building+Intelligent+SaaS;Vibe+Coding+%26+Automation;Crafting+Performant+Web+Apps" alt="Typing Sub-headline" />
   </a>
 
   <p align="center">
@@ -16,13 +16,13 @@
 
   <!-- High-end Minimal Social Pills -->
   <p align="center">
-    <a href="https://linkedin.com/in/syed-mohathaseem-placeholder" target="_blank">
+    <a href="https://www.linkedin.com/in/syed-mohathaseem-4857b9309" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:syedmohathaseem@gmail.com">
       <img src="https://img.shields.io/badge/Email_Me-121212?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://caferehans.netlify.app" target="_blank">
+    <a href="https://syedmohathaseem.tech" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" />
     </a>
   </p>
@@ -34,7 +34,7 @@
 
 I am a forward-thinking **AI Full Stack Developer** dedicated to building intelligent, user-centric web applications and SaaS products. Currently in my third year of Computer Science, I bridge the gap between sophisticated AI models (LLMs, workflows) and production-ready architectures. 
 
-- 💻 **Core Focus:** Creating highly performant web applications using Next.js, React, and Node.js.
+- 💻 **Core Focus:** Creating highly performant web applications using HTML5, React, and Node.js.
 - 🤖 **AI Specialty:** Integrating OpenAI and Gemini APIs, designing automated AI agents, and leveraging Vibe Coding techniques to build products rapidly.
 - ⚡ **Philosophy:** Writing clean, scalable code that translates complex business requirements into elegant software solutions.
 - 🌍 **Open for:** Remote roles, software engineering internships, and high-impact freelance projects.
@@ -47,7 +47,7 @@ I am a forward-thinking **AI Full Stack Developer** dedicated to building intell
   <tr>
     <td width="50%" valign="top">
       <h4>💻 Frontend Engineering</h4>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -66,6 +66,7 @@ I am a forward-thinking **AI Full Stack Developer** dedicated to building intell
       <h4>🤖 Artificial Intelligence</h4>
       <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
       <img src="https://img.shields.io/badge/Gemini_API-1A73E8?style=flat-square&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/Claude_AI-D97706?style=flat-square&logo=anthropic&logoColor=white" />
       <img src="https://img.shields.io/badge/AI_Agents-0D9488?style=flat-square" />
       <img src="https://img.shields.io/badge/Vibe_Coding-6366F1?style=flat-square" />
     </td>
@@ -104,12 +105,12 @@ I am a forward-thinking **AI Full Stack Developer** dedicated to building intell
       <p><strong>Modern Responsive Engineer Showcase</strong></p>
       <p>A premium developer workspace detailing production projects, interactive live previews, micro-animations, and high-fidelity styling.</p>
       <p>
-        <a href="https://caferehans.netlify.app" target="_blank">🚀 Live Website</a> &nbsp;|&nbsp; 
+        <a href="https://syedmohathaseem.tech" target="_blank">🚀 Live Website</a> &nbsp;|&nbsp; 
         <a href="https://github.com/SyedMohathaseem/portfolio">💻 Code Repository</a>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square" />
         <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square" />
       </p>
     </td>
@@ -172,7 +173,7 @@ I'm highly adaptive, comfortable with fast-paced environments, and always lookin
     <img src="https://img.shields.io/badge/Direct_Email-121212?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Button" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/syed-mohathaseem-placeholder">
+  <a href="https://www.linkedin.com/in/syed-mohathaseem-4857b9309">
     <img src="https://img.shields.io/badge/LinkedIn_Profile-121212?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button" />
   </a>
 </div>

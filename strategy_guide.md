@@ -16,7 +16,7 @@ GitHub allows you to pin up to **6 repositories**. For a senior-level AI Full St
 2. **Your Portfolio Website**
    - **Position:** Slot #2 (Top-Right)
    - **Why:** Shows design/aesthetic sense, TS/JS mastery, and responsive markup.
-   - **Description to write on GitHub:** `💼 Developer Workspace & Portfolio. Next.js, Tailwind, TypeScript. Micro-animations, responsive layout, and performance optimized.`
+   - **Description to write on GitHub:** `💼 Developer Workspace & Portfolio. HTML5, React, Tailwind, TypeScript. Micro-animations, responsive layout, and performance optimized.`
 
 3. **AI Integration Hub / Workflows**
    - **Position:** Slot #3
@@ -62,7 +62,7 @@ Your GitHub Bio is the text shown directly under your profile avatar. It must st
 
 Copy and paste this exact bio into your GitHub Profile Settings:
 
-> **AI Full Stack Developer | Next.js, Node, Firebase | Building intelligent SaaS & web applications. Open for remote internships & freelance roles.**
+> **AI Full Stack Developer | React, Node, Firebase | Building intelligent SaaS & web applications. Open for remote internships & freelance roles.**
 
 ---
 
@@ -92,7 +92,7 @@ If you ever want a static PNG/JPG instead of the SVG header, you can use your Fi
    - Go to your GitHub profile settings.
    - Update your **Name** to `Syed Mohathaseem`.
    - Update your **Bio** to the recruiter-friendly bio suggested in Section 4.
-   - Set your **Location** (e.g., "Remote / India") and **Website** (`https://caferehans.netlify.app`).
+   - Set your **Location** (e.g., "Remote / India") and **Website** (`https://syedmohathaseem.tech`).
 4. **Pin Repositories:**
    - Go to your profile homepage.
    - Click "Customize your pins" on the right side.
